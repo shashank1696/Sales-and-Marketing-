@@ -32,6 +32,6 @@ and check if the target is reached or not.
 7) sklearn.metrics
 8) matplotlib.pyplot
 
-## Conclusions
+## Conclusion
 Classification of various aspects are considered and Decision tree is constructed using Decision Tree Classifier
 Algorithm with 90.8% accuarcy.
